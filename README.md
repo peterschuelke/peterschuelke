@@ -4,7 +4,7 @@ I'm a software architect and frontend engineer with over a decade of experience 
 
 ## 🚀 What I Do
 
-- 🏗 Architect and build robust UI systems using **React**, **Lit**, **Next.js**, and **GraphQL**
+- 🏗 Architect and build robust UI systems using **React**, **ReactNative**, **Lit**, **Next.js**, and **GraphQL**
 - 🧠 Solve high-impact frontend challenges with a focus on performance, maintainability, and user experience
 - 🤝 Lead cross-functional teams and mentor developers to raise the technical bar
 - 🔧 Collaborate with design, strategy, and product teams to bring complex ideas to life
@@ -13,13 +13,13 @@ I'm a software architect and frontend engineer with over a decade of experience 
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**  
-`TypeScript`, `JavaScript`, `React`, `Lit`, `Vue`, `Next.js`, `Node`, `GraphQL`, `PHP`
+`TypeScript`, `JavaScript`, `React`, `React Native`, `Lit`, `Vue`, `Next.js`, `Node`,  `PHP`
 
 **Tools & Platforms**  
 `Storybook`, `Tailwind`, `Sanity.io`, `Figma`, `Webpack`, `Vite`, `Docker`, `CI/CD`
 
 **Back End & DevOps (Past and Present)**  
-`REST APIs`, `Drupal`, `Sanity`, `Docker`, `OrbStack`, `Jira`, `GitHub Actions`
+`REST APIs`, `GraphQL`, `Sanity`, `Docker`, `OrbStack`, `Jira`, `GitHub Actions`, `Drupal`,=
 
 ## 🧩 Notable Projects
 
@@ -28,6 +28,8 @@ I'm a software architect and frontend engineer with over a decade of experience 
 - **Children’s Hospital of Philadelphia (CHOP)** – Rescued and led architecture turnaround for a $1.7M healthcare project
 - **KCTS9** – OTT apps delivered on Roku, tvOS, and Fire TV through a multi-company collaboration
 - **EEOC eFile Portal** – Delivered dynamic federal complaint forms under a tight two-month deadline
+- **CurbsideMD** – Built an AI-powered clinical support tool using React Native and LangChain for rapid medical research
+- **MDVIP** – Developed CI/CD pipelines to automate publishing of Android and iOS health apps, eliminating release friction
 
 ## 💬 Let's Connect
 
